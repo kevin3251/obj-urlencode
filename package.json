@@ -1,0 +1,13 @@
+{
+  "name": "obj-urlencode",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "rollup -c"
+  },
+  "devDependencies": {
+    "esm": "^3.2.25",
+    "rollup": "^1.15.6"
+  }
+}
